@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm Kebede Worku 👋
 
-<!--
-**aman-wo/aman-wo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building practical web applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into working products, learning new technologies, and improving my software development skills through hands-on projects.
+
+🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MySQL
+- Tools: Git, GitHub, REST APIs
+
+🚀 Featured Project
+
+AATPTC College Website
+
+A full-stack web application developed to provide college information and manage website content through an administrative interface.
+
+- Built with React, Node.js, Express.js, and MySQL
+- Includes public-facing pages and protected admin functionality
+- Features college departments, programs, news, events, downloads, and more
+
+🔗 "View the Project Repository" (https://github.com/aman-wo/aatptc-project)
+
+🌐 "Visit My Portfolio" (https://aman-wo.github.io/kebede-portfolio/)
+
+📚 Currently Learning
+
+- TypeScript
+- Next.js
+- Modern frontend development practices
+- Writing cleaner, more maintainable code
+
+🎯 My Goal
+
+To become a stronger full-stack developer by building useful applications, collaborating with other developers, and continuously improving my problem-solving skills.
+
+🤝 Let's Connect
+
+- "LinkedIn" (https://www.linkedin.com/in/kebede-worku-401555431/)
+
+---
+
+Building, learning, and improving one project at a time.
